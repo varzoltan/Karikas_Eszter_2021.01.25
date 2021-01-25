@@ -9,7 +9,7 @@ namespace Karikas_Eszter_2021._01._25
     class Program
     {
         static void Main(string[] args)
-        {
+        {//2^^0
         }
     }
 }
